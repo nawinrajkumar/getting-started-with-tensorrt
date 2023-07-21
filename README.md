@@ -39,4 +39,3 @@ Find the detailed documentation and instructions on how to get started with Tens
 This project is licensed under the [MIT License](https://github.com/nawinrajkumar/getting-started-with-tensorrt/blob/main/LICENSE). Feel free to use, modify, and distribute the code, keeping the appropriate attribution and license terms.
 
 ---
-Please replace `path_to_your_logo.png` with the URL or path to the image you wish to use as the TensorRT logo. Additionally, replace `your_username` with your GitHub username if you are creating this repository on your GitHub account.
