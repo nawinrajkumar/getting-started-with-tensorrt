@@ -1,0 +1,7 @@
+torch==2.0.1
+torchvision==0.15.2
+albumentations
+onnx==1.14.0
+opencv-python==4.8.0.74
+tensorflow==2.13.0
+pycuda==2022.2.2
