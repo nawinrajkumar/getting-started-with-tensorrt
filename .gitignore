@@ -2,3 +2,4 @@
 *.trt
 venv
 inputs
+*.engine

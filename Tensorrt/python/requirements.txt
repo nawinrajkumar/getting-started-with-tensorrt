@@ -1,7 +1,0 @@
-torch
-torchvision
-albumentations
-onnx
-opencv-python
-tensorflow
-pycuda
