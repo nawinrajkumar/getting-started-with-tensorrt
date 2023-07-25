@@ -1,5 +1,6 @@
 from onnx_helper import ONNXClassifierWrapper
 import numpy as np
+import cv2 as cv
 
 BATCH_SIZE=64
 
@@ -13,3 +14,5 @@ dummy_input_batch = np.zeros((BATCH_SIZE, 224, 224, 3), dtype = PRECISION)
 
 predictions = trt_model.predict(dummy_input_batch)
 
+cv.imshow("predictions", predictions)
+cv.waitKey(0)
